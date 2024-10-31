@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [University of Toronto](https://www.utoronto.ca/) under guidance of [Prof. Qizhen Zhang](https://qizhenzhang.me/). []
+I am a PhD student at [University of Toronto](https://www.utoronto.ca/) under guidance of [Prof. Qizhen Zhang](https://qizhenzhang.me/). [CV](https://github.com/ShAlireza/shalireza.github.io/raw/main/CV.pdf)
 
 I'm particularly interested in databases, especially when the data volume reaches the scale of big data. 
 Challenges in this domain, such as networking, workload placement, hardware acceleration, and anything that helps in optimizing 
