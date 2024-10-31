@@ -17,11 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at University of Toronto under supervision of Prof Qizhen Zhang.
+I am a PhD student at [University of Toronto](https://www.utoronto.ca/) under guidance of [Prof. Qizhen Zhang](https://qizhenzhang.me/).
 
 I'm particularly interested in databases, especially when the data volume reaches the scale of big data. 
 Challenges in this domain, such as networking, workload placement, hardware acceleration, and anything that helps in optimizing 
-data analysis performance, are the kinds of problems I’m most excited to tackle.
+data analysis performance, are the kinds of problems I’m most excited to tackle. My interests in data is not limited to the mentioned 
+subjects and I'm open to any research related to data and making using data easier and faster, so feel free to [reach out](mailto:alireza@cs.toronto.edu)!
 
 My current primary research focus is on accelerating database queries by leveraging modern accelerators, such as FPGAs and
 GPUs, to offload computational tasks from the CPU. This approach aims to maximize performance and optimize the
