@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a PhD student at [University of Toronto](https://www.utoronto.ca/) under guidance of [Prof. Qizhen Zhang](https://qizhenzhang.me/).
+I am a PhD student at [University of Toronto](https://www.utoronto.ca/) under guidance of [Prof. Qizhen Zhang](https://qizhenzhang.me/). []
 
 I'm particularly interested in databases, especially when the data volume reaches the scale of big data. 
 Challenges in this domain, such as networking, workload placement, hardware acceleration, and anything that helps in optimizing 
@@ -44,7 +44,7 @@ utilization of available computing resources.
 <!-- **kaiming he**, xiangyu zhang, shaoqing ren, jian sun -->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- </div> -->
 <!-- </div> -->
 
