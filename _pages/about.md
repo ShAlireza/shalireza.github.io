@@ -55,14 +55,15 @@ utilization of available computing resources.
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2023.09 - Present*, Ph.D. Studies, University of Toronto
-- *2018.09 - 2023.07*, Bachelor of Science, Computer Engineering 
+- *2023.09 - Present*, Ph.D. Studies, Computer Science, [University of Toronto](https://www.utoronto.ca/)
+- *2018.09 - 2023.07*, Bachelor of Science, Computer Engineering, [Sharif University of Technology](https://www.sharif.ir/)
 
 <!-- # 💬 Invited Talks -->
 <!-- - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Experiences
+- *2023.09 - Present*, Graduate Research Assistant, [University of Toronto](https://www.utoronto.ca/)
 - *2022.04 - 2023.08*, DevOps Team Lead, [Sindibad](https://sindibad.iq/), Iran.
 - *2021.08 - 2022.04*, DataOps Engineer, [DigiKala](https://www.digikala.com/), Iran.
 - *2020.10 - 2021.08*, DevOps Engineer, [Tapsell](https://tapsell.com/), Iran.
